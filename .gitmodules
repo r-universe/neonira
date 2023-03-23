@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "wyz.code.metaTesting"]
+	path = wyz.code.metaTesting
+	url = https://github.com/cran/wyz.code.metaTesting
+	shallow = true
+	registered = true
+[submodule "wyz.code.offensiveProgramming"]
+	path = wyz.code.offensiveProgramming
+	url = https://github.com/cran/wyz.code.offensiveProgramming
+	shallow = true
+	registered = true
+[submodule "wyz.code.rdoc"]
+	path = wyz.code.rdoc
+	url = https://github.com/cran/wyz.code.rdoc
+	shallow = true
+	registered = true
+[submodule "wyz.code.testthat"]
+	path = wyz.code.testthat
+	url = https://github.com/cran/wyz.code.testthat
+	shallow = true
+	registered = true
